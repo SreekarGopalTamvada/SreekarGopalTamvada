@@ -2,7 +2,6 @@
 I am a student at Manipal Institute of Technology, Manipal<br/>
 I am doing my course in Electrical and Electronics Engineering<br/>
 I shared interests in the following , FPGA , electronics , embedded , OpenComputer Vision ( ML ) and also electrical machinery.<br/>
-Also i pose not yet tapped interests in Finance and FinTech in particular and also management tinge here and there but thats just for the coming future<br/>
 
 # 💻 Tech Stack:
 
